@@ -1,3 +1,4 @@
 # BlinkIT Data Analysis (Interactive Dashboard creation using MS Excel)
 ## Project Objective 
 To conduct a comprehensive analysis of Blinkit’s performance, customer satisfaction, and inventory distribution to identify key insights opportunities for optimization using various KPI’s and Visualization in Excel.
+## Dataset used
