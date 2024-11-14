@@ -12,11 +12,14 @@ To conduct a comprehensive analysis of Blinkit’s performance, customer satisfa
 
 ## Process:
 1.	Data Verification and Cleaning:
+
     o	Checks the data for missing values and inconsistencies.
+
     o	Ensures data types, formats, and values are consistent and accurate.
-2.	Pivot Table Creation:
+
+3.	Pivot Table Creation:
     o	Builds pivot tables to answer specific questions about the data.
-3.	Dashboard Creation:
+4.	Dashboard Creation:
     o	Combines all pivot tables into a single interactive dashboard.
     o	Adds slicers to allow users to filter and explore the data dynamically.
 
