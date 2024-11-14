@@ -10,8 +10,6 @@ To conduct a comprehensive analysis of Blinkit’s performance, customer satisfa
 3.	Number of Items : The total count of different items sold.
 4.	Average Rating : the average customer rating for items sold.
 
-- Dashboard Interaction <a hre="https://github.com/kiranhd/Data-Analysis-Dashboard/blob/main/Blinit_Grocery_Data_Analysis_Dashboard.png">View Dashboard<a/>
-
 ## Process:
 1.	Data Verification and Cleaning:
     o	Checks the data for missing values and inconsistencies.
