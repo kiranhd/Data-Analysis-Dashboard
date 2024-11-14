@@ -17,11 +17,15 @@ To conduct a comprehensive analysis of Blinkit’s performance, customer satisfa
 
     o	Ensures data types, formats, and values are consistent and accurate.
 
-3.	Pivot Table Creation:
-    o	Builds pivot tables to answer specific questions about the data.
-4.	Dashboard Creation:
-    o	Combines all pivot tables into a single interactive dashboard.
-    o	Adds slicers to allow users to filter and explore the data dynamically.
+2.	Pivot Table Creation:
+
+  	 o	Builds pivot tables to answer specific questions about the data.
+
+3.	Dashboard Creation:
+
+  	o	Combines all pivot tables into a single interactive dashboard.
+
+  	o	Adds slicers to allow users to filter and explore the data dynamically.
 
 ## Dashboard
 
